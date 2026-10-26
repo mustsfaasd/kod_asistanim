@@ -2,7 +2,7 @@ Proje Yazarı: Mustafa Anıl Kuşcu
 # Projenin Adı: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri: Bu asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını (örneğin v1.0 Akıllı Menü, v2.0 Veri Saklama) maddeler halinde yazınız.
-Başla.
+Proje Kağsamı:Başla.
 Saat değerini 1 olarak ayarla.
 Su seviyesini sensörden oku.
 Su seviyesi 50 metreyi aşarsa 7. adıma git.
